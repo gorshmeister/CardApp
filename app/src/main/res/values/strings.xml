@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">cardApp</string>
+    <string name="write_Bin">Write BIN</string>
+    <string name="get_info">Get info</string>
+    <string name="bank">BANK</string>
+    <string name="type">TYPE</string>
+    <string name="prepaid">PREPAID</string>
+    <string name="country">COUNTRY</string>
+    <string name="numeric">NUMERIC</string>
+    <string name="currency">CURRENCY</string>
+    <string name="latitude">latitude :</string>
+    <string name="longitude">longitude :</string>
+    <string name="scheme_network">SCHEME/NETWORK</string>
+    <string name="brand">BRAND</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">LENGTH</string>
+    <string name="luhn">LUHN</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="Error8">Error: the maximum number of characters is 8</string>
 </resources>
